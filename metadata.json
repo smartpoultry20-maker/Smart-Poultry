@@ -1,0 +1,8 @@
+{
+  "name": "Smart Poultry Farm",
+  "description": "Smart Poultry Farm Monitoring System receiving live sensor data from ESP32 via ThingSpeak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
